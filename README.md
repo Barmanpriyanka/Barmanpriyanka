@@ -1,5 +1,7 @@
-# 💫 About Me:
-# Hello, I'm Priyanka Barman 👋<br><br>I'm a college student with a passion for web development. I love creating beautiful and functional websites using modern web technologies. Currently, I'm expanding my skill set by learning Solidity to delve into blockchain development.<br><br>**Pursuing a Bachelor’s degree** in Computer Science at Chandigarh University<br>
+<h1 align="center">Hi 👋, I'm Priyanka Barman</h1>
+<h3 align="center">I'm a college student with a passion for web development.</h3>
+
+- 🌱 I’m currently learning **Solidity to delve into blockchain development.**
 
 
 ## 🌐 Socials:
