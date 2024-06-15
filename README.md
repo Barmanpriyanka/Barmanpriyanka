@@ -1,41 +1,25 @@
-# Hello, I'm Priyanka Barman 👋
-
-## About Me
-
-I'm a college student with a passion for web development. I love creating beautiful and functional websites using modern web technologies. Currently, I'm expanding my skill set by learning Solidity to delve into blockchain development.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barmanpriyanka&show_icons=true&theme=radical)
-## Skills
-
-- **Programming Languages:** C++, HTML, CSS, JavaScript
-- **Currently Learning:** Solidity for blockchain development
-
-## Projects
-
-Here are a few projects I've worked on:
-
-1. [Portfolio Website](https://barmanpriyanka.github.io/portfolio-website/)
-   - **Description:** A personal portfolio website showcasing my projects and skills.
-   - **Technologies:** HTML, CSS, JavaScript
-
-2. [Weather App](https://barmanpriyanka.github.io/weather-API/)
-   - **Description:** A simple weather application that provides weather information based on user input.
-   - **Technologies:** HTML, CSS, JavaScript, OpenWeather API
+# 💫 About Me:
+# Hello, I'm Priyanka Barman 👋<br><br>I'm a college student with a passion for web development. I love creating beautiful and functional websites using modern web technologies. Currently, I'm expanding my skill set by learning Solidity to delve into blockchain development.<br><br>**Pursuing a Bachelor’s degree** in Computer Science at Chandigarh University<br>
 
 
-## Education
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/priyanka_barman1604?igsh=ZDgzZng1MnE1N3po) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanka-barman-5215b8247) 
 
-- **Currently pursuing** a degree in Computer Science and Engineering at chandigarh university
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Barmanpriyanka&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Barmanpriyanka&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Barmanpriyanka&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contact Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Barmanpriyanka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Feel free to reach out to me at:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Email:** priyankabarman1904@gamil.com
-- **LinkedIn:** [Priyanka Barman LinkedIn](www.linkedin.com/in/
-priyanka-barman
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Barmanpriyanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-)
-- **GitHub:** [Priyanka Barman GitHub](https://github.com/Barmanpriyanka)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Thank you for visiting my profile!
